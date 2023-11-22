@@ -41,3 +41,12 @@
 2023-11-16 16:51:51.952 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
 2023-11-16 16:52:26.062 INFO  com.baidu.aip.client.BaseClient Line:199 - get access_token success. current state: STATE_AIP_AUTH_OK
 2023-11-16 17:00:25.638 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:250 - Disabled session validation scheduler.
+2023-11-23 03:32:00.657 INFO  com.smart.Application Line:55  - Starting Application using Java 17 on DESKTOP-V6DEDC4 with PID 9396 (D:\vscode-project\git-project\aiparking\target\classes started by kabuto in D:\vscode-project\git-project\aiparking)
+2023-11-23 03:32:00.659 INFO  com.smart.Application Line:640 - The following 1 profile is active: "dev"
+2023-11-23 03:32:03.287 INFO  org.apache.catalina.core.StandardService Line:173 - Starting service [Tomcat]
+2023-11-23 03:32:03.287 INFO  org.apache.catalina.core.StandardEngine Line:173 - Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-11-23 03:32:03.372 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring embedded WebApplicationContext
+2023-11-23 03:32:06.198 INFO  com.smart.Application Line:61  - Started Application in 6.048 seconds (JVM running for 6.597)
+2023-11-23 03:32:06.201 INFO  com.smart.Application Line:23  - 智能停车场管理平台
+2023-11-23 03:32:35.783 INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Line:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-23 03:32:35.795 INFO  org.apache.shiro.session.mgt.AbstractValidatingSessionManager Line:233 - Enabling session validation scheduler...
